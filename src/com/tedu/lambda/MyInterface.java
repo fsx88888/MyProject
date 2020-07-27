@@ -11,7 +11,7 @@ class  MyInterfaceImpl implements  MyInterface{
 
     @Override
     public void a() {
-        System.out.println("a......");
+        System.out.println("a******");
     }
 }
 class  TestMyInterface{
