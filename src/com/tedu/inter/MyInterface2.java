@@ -7,7 +7,7 @@ public interface MyInterface2 {
     int b = 5;//其自动补全public static final  修饰
 
     //普通方法必须是抽象方法
-    public void  eat4();
+    public void   eat4();
     //可以定义 static和default修饰的方法
     public static  void  eat5() {
         System.out.println("est2");
